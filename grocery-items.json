@@ -1,0 +1,32 @@
+[
+  {
+    "item_name": "Fresh Milk",
+    "item_price": 2.58,
+    "item_sku": 100,
+    "num_of_purchases": 20
+  },
+  {
+    "item_name": "Oat Milk",
+    "item_price": 3.99,
+    "item_sku": 101,
+    "num_of_purchases": 15
+  },
+  {
+    "item_name": "Almond Milk",
+    "item_price": 3.25,
+    "item_sku": 102,
+    "num_of_purchases": 7
+  },
+  {
+    "item_name": "Chocolate Milk",
+    "item_price": 3.85,
+    "item_sku": 103,
+    "num_of_purchases": 29
+  },
+  {
+    "item_name": "Strawberry Milk",
+    "item_price": 3.93,
+    "item_sku": 104,
+    "num_of_purchases": 19
+  }
+]
